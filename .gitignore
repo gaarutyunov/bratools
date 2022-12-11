@@ -8,3 +8,12 @@ config.py
 # Standard locations of data and server temporary files
 data/
 work/
+.idea
+.DS_Store
+.vscode
+dist
+build
+*.egg-info
+*.egg
+__pycache__
+*.log
